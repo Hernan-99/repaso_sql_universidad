@@ -20,6 +20,8 @@ SELECT first_name AS Nombres from sakila.customer;
 -------------------------------------------------------
 -------------------------------------------------------
 -- EJERCICIO 2
+SELECT * FROM actor WHERE actor_id <=5;
+SELECT * FROM actor WHERE first_name='FRED';
 
 
 -- ejercicio 1

@@ -24,7 +24,7 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 
 1. Ejercicio 00: obtener todos los registros de la tabla customer. Luego obtener todos los registros de customers a paartir del nombrre y apellido.
 2. Cambiar renombrar una columna* (*atributo) de forma temporal, es decir que no se modificara la tabla de origen. El objetivo es darle un alias para visualizarla.
-3. Obtener los registros de la tabla de actores solo cuando su identificador sea menor o igual a 5. Luego obtener un actor en especifico filtrando por nombre.
+3. Obtener los registros de la tabla de actores solo cuando su identificador sea menor o igual a 5. Luego obtener los actores en especifico filtrando por nombre.
 
 
 
