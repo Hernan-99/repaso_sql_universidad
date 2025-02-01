@@ -23,6 +23,16 @@ SELECT first_name AS Nombres from sakila.customer;
 SELECT * FROM actor WHERE actor_id <=5;
 SELECT * FROM actor WHERE first_name='FRED';
 
+-- EJERCICIO 3
+SELECT title AS pelicula, length AS duracion FROM film WHERE length >=60;
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
+-- EJERCICIO 4
+SELECT customer_id, first_name, active FROM customer WHERE customer_id > 50 AND active > 0;
+
+
 
 -- ejercicio 1
 -- ORDEN ASCENDENTE
