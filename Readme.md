@@ -42,7 +42,6 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 15. Ordenar las peliculas de la tabla film, por duración en orden descendente y por título en orden ascendente.
 16. Obtener una lista de 10 películas, pero saltando las primeras 20 (por ejemplo, para mostrar la tercera página de resultados si estamos paginando de 10 en 10).
 17. Listar 5 clientes pero omitiendo los primeros 15 registros.
-
 ---
 
 # Segunda parte de ejercicios
