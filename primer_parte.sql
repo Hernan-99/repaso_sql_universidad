@@ -51,6 +51,27 @@ SELECT actor_id, first_name, last_name FROM actor WHERE first_name IN ('PENELOPE
 -- EJERCICIO 7
 SELECT title, rating, length FROM film WHERE rating IN ('PG', 'PG-13', 'G') AND length BETWEEN  90 AND 120;
 
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
+-- EJERCICIO 8
+SELECT country FROM country WHERE country BETWEEN 'Argentina' AND 'Mexico';
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
+-- EJERCICIOS 9, 10 Y 11
+SELECT country FROM country WHERE country LIKE 'B%';
+SELECT country FROM country WHERE country LIKE '%A';
+SELECT country FROM country WHERE country LIKE '%Z%';
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
+-- EJERCICIOS 12, 13 Y 14
 
 -- ejercicio 1
 -- ORDEN ASCENDENTE
