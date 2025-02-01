@@ -42,8 +42,15 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 15. Ordenar las peliculas de la tabla film, por duración en orden descendente y por título en orden ascendente.
 16. Obtener una lista de 10 películas, pero saltando las primeras 20 (por ejemplo, para mostrar la tercera página de resultados si estamos paginando de 10 en 10).
 17. Listar 5 clientes pero omitiendo los primeros 15 registros.
+
 ---
 
 # Segunda parte de ejercicios
 
 ### Consignas
+
+0. Obtener la cantidad total de categorias de peliculas registradas en la base de datos y asignarle en nommbre dee 'ccategorias_totales' a la columna
+1. Obtener la cantidad total de peliculas en que el lenguaje original se encuentre nulo. Extra: agregar una condicion mas, que seria duraacion de peliculas mayores a 90 minutos
+2. Calcular la suma total de todas las peliculas de la tabla film, cuando la callificacion sea 'PG' y asignale  el nombre de 'duracion_para_PG'
+3. Calcular la suma total de todas las peliculas que empiecen con la letra A de la tabla film, cuando la callificacion sea 'PG', asignale  el nombre de 'duracion_para_PG'.
+4. Obtener el promedio de duración (en minutos) de todas las películas registradas.
