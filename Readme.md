@@ -32,7 +32,19 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 5. Filtrar datos de la tabla customer, de tal manera que se cumpla al menos una de las siguientes condiciones: id mayor a 50 o y si esta activo. Solo mostrar las columnas del id, nombre y si esta activo.
 6. Filtrar los registros de la tabla actor por el nombre, de tal manera que obtengamos los actores cuyos nombres sean PENELOPE, NICK o ED. Solo mostrar las columnas de id, nombre y apellido
 7. Filtrar todas las películas de la tabla film cuya clasificación (rating) sea 'PG', 'PG-13' o 'G', y cuya duración (length) esté entre 90 y 120 minutos. Mostrar solo, nombre, clasificacion y duracion
+8. Filtrar todos los paises que se encuentren entre el rango Argentina a Mexico.
+9. Filtrar todos los paises que empiecen con la letra B.
+10. Filtrar todos los paises que terminen con la letra A.
+11. Filtrar todos los paises que contengan en alguna parte la letra Z.
+12. Filtrar todos los clientes que: pertenezcan a las tiendas 1 o 2, no tengan una dirección registrada y si el número de teléfono es nulo, mostrar "Teléfono no disponible" en su lugar.
+13. Ejercicio_00: ordenar de manera ascendente el nombre de los paises de la BBDD sakila, es decir de A - Z. Luego ordenarlos de manera descendente, es decir de Z - A.
+14. Ejercicio_01: ordenar de manera ascendente la tabla customer de tal manera que solo muestre los nombres.
+15. Ordenar las peliculas de la tabla film, por duración en orden descendente y por título en orden ascendente.
+16. Obtener una lista de 10 películas, pero saltando las primeras 20 (por ejemplo, para mostrar la tercera página de resultados si estamos paginando de 10 en 10).
+17. Listar 5 clientes pero omitiendo los primeros 15 registros.
 
+---
 
-7. Ejercicio_00: ordenar de manera ascendente el nombre de los paises de la BBDD sakila, es decir de A - Z. Luego ordenarlos de manera descendente, es decir de Z - A.
-8. Ejercicio_01: ordenar de manera ascendente la tabla customer de tal manera que solo muestre los nombres.
+# Segunda parte de ejercicios
+
+### Consignas
