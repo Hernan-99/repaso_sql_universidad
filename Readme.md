@@ -24,7 +24,7 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 
 ### Consignas
 
-0. Ejercicio 00: obtener todos los registros de la tabla customer. Luego obtener todos los registros de customers a paartir del nombrre y apellido.
+0. Obtener todos los registros de la tabla customer. Luego obtener todos los registros de customers a paartir del nombrre y apellido.
 1. Cambiar renombrar una columna* (*atributo) de forma temporal, es decir que no se modificara la tabla de origen. El objetivo es darle un alias para visualizarla.
 2. Obtener los registros de la tabla de actores solo cuando su identificador sea menor o igual a 5. Luego obtener los actores en especifico filtrando por nombre.
 3. Obtener el nombres y la duracion de todas las peliculas de la tabla film que tengan una duracion mayor o igual a 60 minutos. Extra, renombrar las columnas temporalmente para facilitar la lectura de datos.
@@ -36,9 +36,9 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 9. Filtrar todos los paises que empiecen con la letra B.
 10. Filtrar todos los paises que terminen con la letra A.
 11. Filtrar todos los paises que contengan en alguna parte la letra Z.
-12. Filtrar todos los clientes que: pertenezcan a las tiendas 1 o 2, no tengan una dirección registrada y si el número de teléfono es nulo, mostrar "Teléfono no disponible" en su lugar.
-13. Ejercicio_00: ordenar de manera ascendente el nombre de los paises de la BBDD sakila, es decir de A - Z. Luego ordenarlos de manera descendente, es decir de Z - A.
-14. Ejercicio_01: ordenar de manera ascendente la tabla customer de tal manera que solo muestre los nombres.
+12. Filtrar todos los clientes que: pertenezcan a las tiendas 1 o 2, no tengan una dirección registrada y si el email es nulo, mostrar "Email no disponible" en su lugar.
+13. Ordenar de manera ascendente el nombre de los paises de la BBDD sakila, es decir de A - Z. Luego ordenarlos de manera descendente, es decir de Z - A.
+14. Ordenar de manera ascendente la tabla customer de tal manera que solo muestre los nombres.
 15. Ordenar las peliculas de la tabla film, por duración en orden descendente y por título en orden ascendente.
 16. Obtener una lista de 10 películas, pero saltando las primeras 20 (por ejemplo, para mostrar la tercera página de resultados si estamos paginando de 10 en 10).
 17. Listar 5 clientes pero omitiendo los primeros 15 registros.
