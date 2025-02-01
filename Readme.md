@@ -59,3 +59,20 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 7. Contar cuántas películas hay en cada año en la tabla film.
 8. Calcular la duración promedio, mínima y máxima de las películas por año de estreno en la tabla film.
 9. Calcular el promedio, minimo y maximo de duracion de todas las peliculas y ordenar por titulo, ademas agregar una condicion de grupo donde la duracion sea mayor a 90 minutos
+
+---
+
+# Tercera parte de ejercicios
+
+### Consignas
+
+0. Obtener un listado de los clientes (first_name, last_name) junto con las fechas de las películas que alquilaron y ordenar de manera descendente
+1. Obtner la fecha y hora actual y asignar nombre
+2. Obtner de la fecha actual, el año, mes y dia y asignar nombre.
+3. Obtner de la hora actual y asignar nombre.
+4. Obtener una lista de los clientes mostrando su nombre y apellido en una sola columna.
+5. Obtener una lista con los primeros 3 caracteres del nombre de cada pelicula y mostrarlos como "primeros_tres_caracters".
+6. Obtener una lista con los nombres de los clientes y la cantidad de caracteres que tiene cada nombre.
+7. Obtener una lista de los pagos realizados por los clientes, mostrando el monto original y el monto redondeado.
+8. Obtener una lista de los pagos realizados, mostrando el monto original y el monto redondeado hacia abajo.
+9. Obtener una lista de los pagos realizados, mostrando el monto original y el monto redondeado hacia arriba.
