@@ -1,4 +1,4 @@
-# Ejercicios de repaso Universidad Nacional Guillermo Brown.
+# Ejercicios integradores de repaso Universidad Nacional Guillermo Brown.
 
 ## Tema: Consultas SQL
 
@@ -22,11 +22,17 @@ Para realizar estos ejercicios se utilizo la base de datos sakila, proporcionada
 
 # Primera parte de ejercicios
 
+### Consignas
+
 0. Ejercicio 00: obtener todos los registros de la tabla customer. Luego obtener todos los registros de customers a paartir del nombrre y apellido.
 1. Cambiar renombrar una columna* (*atributo) de forma temporal, es decir que no se modificara la tabla de origen. El objetivo es darle un alias para visualizarla.
 2. Obtener los registros de la tabla de actores solo cuando su identificador sea menor o igual a 5. Luego obtener los actores en especifico filtrando por nombre.
 3. Obtener el nombres y la duracion de todas las peliculas de la tabla film que tengan una duracion mayor o igual a 60 minutos. Extra, renombrar las columnas temporalmente para facilitar la lectura de datos.
 4. Filtrar datos de la tabla customer, de tal manera que se cumpla la condicion de id (mayor a 50) y si esta activo. Solo mostrar las columnas del id, nombre y si esta activo
+5. Filtrar datos de la tabla customer, de tal manera que se cumpla al menos una de las siguientes condiciones: id mayor a 50 o y si esta activo. Solo mostrar las columnas del id, nombre y si esta activo.
+6. Filtrar los registros de la tabla actor por el nombre, de tal manera que obtengamos los actores cuyos nombres sean PENELOPE, NICK o ED. Solo mostrar las columnas de id, nombre y apellido
+7. Filtrar todas las películas de la tabla film cuya clasificación (rating) sea 'PG', 'PG-13' o 'G', y cuya duración (length) esté entre 90 y 120 minutos. Mostrar solo, nombre, clasificacion y duracion
 
-4. Ejercicio_00: ordenar de manera ascendente el nombre de los paises de la BBDD sakila, es decir de A - Z. Luego ordenarlos de manera descendente, es decir de Z - A.
-5. Ejercicio_01: ordenar de manera ascendente la tabla customer de tal manera que solo muestre los nombres.
+
+7. Ejercicio_00: ordenar de manera ascendente el nombre de los paises de la BBDD sakila, es decir de A - Z. Luego ordenarlos de manera descendente, es decir de Z - A.
+8. Ejercicio_01: ordenar de manera ascendente la tabla customer de tal manera que solo muestre los nombres.
